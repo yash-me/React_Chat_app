@@ -1,6 +1,6 @@
 # React_Chat_app
 
-A React Chat application for two person!
+A React Chat application for two person.
 
 
 ![](https://raw.githubusercontent.com/yash-me/React_Chat_app/master/Chat_app.png)
